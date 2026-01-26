@@ -1,4 +1,4 @@
-import GroceryItem from "./GroceryItem";
+import GroceryItem from "../components/GroceryItem";
 
 export default function GroceryItemList() {
   const items = [
