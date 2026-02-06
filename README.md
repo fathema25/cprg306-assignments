@@ -1,19 +1,14 @@
 # CPRG 306: Web Development 2 - Assignments
 
 This is my Web Development 2 course project using Next.js.  
-It contains weekly assignments, starting with Week 2.
+It contains weekly assignments.
 
-## Week 2 Assignment
+Week 2 – Completed 
+Week 3 – Completed 
 
-### Pages
-- Home Page 
-  Shows the course title and a link to the Week 2 assignment.
-
-- Week 2 Page 
-  Displays:
-  - A heading: "Shopping List"
-
-### StudentInfo Component
-- Located at `app/week-2/StudentInfo.js`
-- Renders my name and GitHub repository link
-
+Week 4 – Handling Lists
+Completed the assignment on rendering lists dynamically from JSON.
+   -Implemented Item and ItemList components
+   -Grouped shopping list items by category
+   -Displayed quantity for each item
+   -Followed instructor’s output and styling guidelines using Tailwind CSS
