@@ -40,7 +40,7 @@ export default function NewItem() {
 
         {/*Quantity Field*/}
         <div className="flex flex-col flex-1">
-          <label className="font-medium mb-1">Quantity (1-20)</label>
+          <label className="font-medium mb-1">Quantity (1-99)</label>
           <input
             type="number"
             min="1"
